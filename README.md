@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ipv0
-- 👀 Web Development, Linux, COding, Electronics, etc..
-- 🌱 I’m currently re-learning JS, and remembering React
+Alex A.
+Interested in coding, web development, Linux and electronics.
+Since I've been out of the loop for quite some time, I’m currently re-learning JS, and remembering React.
 
 <!---
 ipv0/ipv0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
